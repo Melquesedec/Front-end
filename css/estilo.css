@@ -1,0 +1,44 @@
+
+body{
+    background-color: black;
+    color: ghostwhite;
+    font-weight: 900;
+    font-family: arial;
+}
+
+h1 {
+    margin-left: 765px;
+    font-weight: 800;
+}
+
+#caixa{
+    margin-left: 870px;
+}
+
+.tarefa1{
+    margin-left: 750px;
+    margin-top: 100px;
+}
+
+legend{
+    margin-left: 750px;
+}
+
+.tarefas1{
+    margin-left: 750px;
+}
+
+.adicionar1{
+    background-color: black;
+    color: white;
+    box-shadow: 1px 0px 7px purple;
+    border-radius: 10px;
+}
+
+.trf1{
+    box-shadow: 1px 0px 8px purple;
+    font-weight: 700;
+    height: 30px;
+    border-radius: 20px;
+}
+
